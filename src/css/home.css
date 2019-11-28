@@ -6,11 +6,17 @@
 
 .carousel-caption p {
     font-size: 1em;
+    color: #02558a;
+    padding-top: 5px;
+    padding-bottom: 20px;
 }
 
 .carousel-caption h1{
     font-size: 2.2em;
     background-color: #ffffffcf;
+    padding-top: 20px;
+    margin-bottom: 0px;
+
 }
   
   .carousel-item {
@@ -26,7 +32,7 @@
   }
 
   .bg-carousel{
-    background-color: #02558acf;
+    background-color: #ffffffcf;
   }
 
   @media  (max-width: 767px) {
